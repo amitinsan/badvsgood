@@ -1,0 +1,68 @@
+/********************* Bad (Code 1) *********************/
+.gcm-notification-landing-page{display:none}
+
+.gcm-notification-landing-page .bg-overlay{position:fixed;left:0;right:0;top:0;bottom:0;background:rgba(0,0,0,0.8);z-index:999}
+.gcm-notification-landing-page .notification-page-content{background:#fff;position:absolute;z-index:999;border:1px solid #ebebeb;padding:10px;top:110px;width:800px;left:50%;margin-left:-400px}
+.gcm-notification-landing-page .notification-page-content .top-fixed-sec.fixed-top span.close{top:7px;right:10px}
+.gcm-notification-landing-page .notification-page-content .article-sec .main-content .article-content .leftFirst.flt .shareVertHolderArticle.shareIconFixed{padding:5px 5px;width:40px}
+.gcm-notification-landing-page .notification-page-content .article-sec .main-content .article-content .leftFirst.flt .shareVertHolderArticle.shareIconFixed .sharingBox{position:fixed;top:37px}
+.gcm-notification-landing-page .notification-page-content .top-fixed-sec{position:relative;margin-bottom:15px}
+.gcm-notification-landing-page .notification-page-content .top-fixed-sec a,.gcm-notification-landing-page .notification-page-content .top-fixed-sec span{font-size:14px;border-bottom:0;display:inline-block;vertical-align:top}
+.gcm-notification-landing-page .notification-page-content .top-fixed-sec span{padding:0 5px}
+.gcm-notification-landing-page .notification-page-content .top-fixed-sec .breadCrumb{padding:0;border:0;margin-top:10px}
+.gcm-notification-landing-page .notification-page-content .top-fixed-sec .breadCrumb aside#searchBar{display:none}
+.gcm-notification-landing-page .notification-page-content .top-fixed-sec .close{position:absolute;right:0;top:-5px;color:red;cursor:pointer;display:inline-block;vertical-align:top;z-index:9;background:#CCC;width:39px;height:25px;padding-left:31px;line-height:25px;font-weight:bold}
+.gcm-notification-landing-page .notification-page-content .top-fixed-sec span.undoBtn { position: absolute; right: 7px; top: -6px; border-radius: 15px; padding: 4px 19px!important; color: #fff; font-weight: bold; line-height: 19px; font-size: 13px !important; height: 20px; text-align: center; background: rgba(0,0,0,0.4); cursor: pointer; display:none; }
+.gcm-notification-landing-page .sharingBox{position:static;display:inline-block;vertical-align:top;box-shadow:none}
+.gcm-notification-landing-page .sharingBox a{width:41px;height:41px;display:block;margin:7px auto}
+.gcm-notification-landing-page .shareVert .cmt,.gcm-notification-landing-page .shareVert .comment_count,.gcm-notification-landing-page .shareVert .page_options,.gcm-notification-landing-page #mobileSite,.gcm-notification-landing-page .comment_box,.gcm-notification-landing-page .nextstory,.gcm-notification-landing-page .nextref,.gcm-notification-landing-page #switch_btn{display:none}
+.gcm-notification-landing-page .notification-page-content .article-sec .main-content .article-content .leftFirst.flt{width:55px;display:none}
+.gcm-notification-landing-page .notification-page-content .article-sec .main-content .article-content .leftFirst.flt+article{float:left;width:755px;margin-left:0;line-height:24px;font-size:16px;border:1px solid #f3f3f3;padding-right:18px;padding-left:15px;border-top:0}
+.gcm-notification-landing-page .notification-page-content .article-sec .main-content .article-content article h1.title{font-size:30px;margin-bottom:10px;font-weight:700;line-height:36px}
+.gcm-notification-landing-page .notification-page-content .article-sec .main-content .article-content article .publish_info{line-height:1.4;color:#7e7e7e;font-size:13px;margin-bottom:5px;display:block;padding:2px;background:#fafafa;margin-bottom:10px}
+.gcm-notification-landing-page .notification-page-content .article-sec .main-content .article-content article .publisher,.gcm-notification-landing-page .notification-page-content .article-sec .main-content .article-content article .publish_on{font-size:11px;line-height:16px;color:#7a7a7a;display:inline-block;vertical-align:top}
+.gcm-notification-landing-page .notification-page-content .article-sec .main-content .article-content article .publisher div{display:inline}
+.gcm-notification-landing-page .notification-page-content .article-sec .main-content .article-content .leftFirst.flt+article .articleImg{float:right;width:310px;text-align:center;margin:0;background:#f4f4f4;padding:5px}
+
+.gcm-notification-landing-page .notification-page-content .top-fixed-sec.fixed-top{position:fixed;background:rgba(256,256,256,0.95);width:822px;z-index:9;box-shadow:0 2px 3px 1px rgba(0,0,0,0.4);top:0;margin-left:-11px;padding-bottom:14px}
+.gcm-notification-landing-page .notification-page-content .articleImg.related_topics .raltedTopics{display:block}
+.gcm-notification-landing-page .notification-page-content .top-fixed-sec.fixed-top .breadCrumb{margin-left:15px}
+.gcm-notification-landing-page .notification-page-content .raltedTopics{margin:10px 0 20px 0;padding-bottom:20px;display:none}
+.gcm-notification-landing-page .notification-page-content .articleImg.related_topics{margin-left:80px}
+.gcm-notification-landing-page .notification-page-content .raltedTopics b{color:#595959;margin-right:2px;position:relative;font-size:12px}
+
+.gcm-notification-landing-page .notification-page-content .article-sec .main-content .article-content article .editorsPick ul { list-style-type: none; margin: 0; padding: 0; text-align: left;}
+.gcm-notification-landing-page .notification-page-content .article-sec .main-content .article-content article .editorsPick ul li { margin-bottom: 10px;}
+.gcm-notification-landing-page .notification-page-content .article-sec .main-content .article-content article .editorsPick ul li a { display: block; line-height: 20px; margin: 0 10px; font-size: 13px; }
+.gcm-notification-landing-page .notification-page-content .article-sec .main-content .article-content .leftFirst.flt+article .add-section { float: right; width: 320px; margin: 10px auto 20px;}
+.gcm-notification-landing-page .notification-page-content .rel-art { padding-left: 20px;border-left: 2px solid #000; margin: 10px 10px 0 80px;}
+.gcm-notification-landing-page .notification-page-content .rel-art>h3 { font-size: 20px;     line-height: 30px; }
+.gcm-notification-landing-page .notification-page-content .rel-art .rel-art-stry { position: relative; padding-left: 10px; font-size: 13px; line-height: 18px; margin-top: 10px; }
+.gcm-notification-landing-page .notification-page-content .rel-art .rel-art-stry:before { position: absolute; content: ''; background: url(<xsl:value-of select="$img_domain"/>/photo/57513235.cms) no-repeat; left: 0; top: 4px; width: 5px; height: 7px;}
+/* GCM Notification Landing Page Css Here end  */
+
+/******************* Good ************************/
+// write standard class
+
+.hidden {display:none};
+.fl: {float:left}
+.fr: {float:right}
+.p10 {padding:10px}
+.m10 {margin:10}
+.fz12 {font-size:12px}
+.pos-rel {position:relative}
+.bold {font-weight:700}
+
+etc
+
+dont go for more then 3 level
+
+e.g.
+.gcm-notification-landing-page .notification-page-content .article-sec .main-content .article-content .leftFirst.flt+article{/*some css*/}
+
+write some specific class and put it on that element.
+.gcm article {
+    /*some csss*/
+}
+
+
