@@ -42,25 +42,25 @@
 /* GCM Notification Landing Page Css Here end  */
 
 /******************* Good ************************/
-// write standard class
+/*** write standard class ******/
 
 .hidden {display:none};
-.fl: {float:left}
-.fr: {float:right}
+.fl {float:left}
+.fr {float:right}
 .p10 {padding:10px}
-.m10 {margin:10}
+.m10 {margin:10px}
 .fz12 {font-size:12px}
 .pos-rel {position:relative}
 .bold {font-weight:700}
 
-etc
+/******** etc ******/
+/**** dont go for more then 3 level
 
-dont go for more then 3 level
+e.g.*****/
 
-e.g.
 .gcm-notification-landing-page .notification-page-content .article-sec .main-content .article-content .leftFirst.flt+article{/*some css*/}
 
-write some specific class and put it on that element.
+/*****write some specific class and put it on that element.***/
 .gcm article {
     /*some css*/
 }
